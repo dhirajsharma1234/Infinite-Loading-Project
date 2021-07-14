@@ -1,4 +1,4 @@
-//Creating an promise object 
+//Creating an promise object    
 const theProm = new Promise(function(resolve,reject){
     let n = 9;
     if(n%2 === 0){
