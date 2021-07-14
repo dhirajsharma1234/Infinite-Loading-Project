@@ -1,4 +1,5 @@
 //Creating an promise object    
+//this is even odd program
 const theProm = new Promise(function(resolve,reject){
     let n = 9;
     if(n%2 === 0){
